@@ -1,0 +1,23 @@
+
+=======================================================
+ STRUK PEMBAYARAN RUMAH SAKIT     
+=======================================================
+Jln. Sorosutan No.6B, Umbulharjo, Kota Yogyakarta
+ Tanggal Periksa   : 0-0-0
+ Nama          : 
+ Alamat        : 
+ No.Hp         : 
+ Umur          : 0
+ Jenis Kelamin : 
+-------------------------------------------------------
+ Jenis Sakit - 
+ Harga                                       = 0
+ Jumlah                                      = 0
+ Rawat Inap                                  = 0 hari
+-------------------------------------------------------
+ Harga Total                                 = 0
+ Bayar                                       = 0
+ Kembali                                     = 0
+=======================================================
+
+   Terima kasih Semoga Lekas Sembuh

@@ -1,0 +1,24 @@
+
+=======================================================
+                      DATA PASIEN
+=======================================================
+ Masukkan Tanggal Periksa : 0
+ Masukkan Bulan Periksa   : 0
+ Masukkan Tahun Periksa   : 0
+ Masukkan Nama Pasien     : 
+ Masukkan Alamat Pasien   : 
+ Masukkan No.Hp Pasien    : 
+ Masukkan Umur Pasien     : 0
+ Masukkan Jenis kelamin   : 
+=======================================================
+
+=======================================================
+                      DATA PENGKAJIAN     
+=======================================================
+ 1. Tekanan darah MmHg : 5
+ 2. Berat Badan        : 
+ 3. Tinggi Badan       : 
+ 4. Nadi               : 
+ 5. Suhu Badan        : 
+=======================================================
+
