@@ -95,7 +95,7 @@ for (int i = 0; i < 1; i++) {
 			case 1 :
         hargadokter = 150000;
         cout<<"Profil Dokter "<<endl;
-				cout<<"+---------+ "<<endl;
+	cout<<"+---------+ "<<endl;
         cout<<"|         | "<<endl;
         cout<<"|  Foto   | "<< " dr.Mira Ikawati Sp.KK,FINSDV "<<endl;
         cout<<"|  Profil | "<< " Dokter kulit "<<endl;
@@ -126,7 +126,7 @@ for (int i = 0; i < 1; i++) {
       case 2 :
         hargadokter = 25000;
         cout<<"Profil Dokter "<<endl;
-				cout<<"+---------+ "<<endl;
+	cout<<"+---------+ "<<endl;
         cout<<"|         | "<<endl;
         cout<<"|  Foto   | "<< " dr.Ni Wayan sulianti siskadewi Sp.KK "<<endl;
         cout<<"|  Profil | "<< " Dokter kulit "<<endl;
@@ -158,7 +158,7 @@ for (int i = 0; i < 1; i++) {
         case 3 :
         hargadokter = 25000;
         cout<<"Profil Dokter "<<endl;
-				cout<<"+---------+ "<<endl;
+	cout<<"+---------+ "<<endl;
         cout<<"|         | "<<endl;
         cout<<"|  Foto   | "<< " dr.Ni Wayan Lisa Sp.KK "<<endl;
         cout<<"|  Profil | "<< " Dokter kulit "<<endl;
@@ -189,7 +189,7 @@ for (int i = 0; i < 1; i++) {
          case 4 :
         hargadokter = 250000;
         cout<<"Profil Dokter "<<endl;
-				cout<<"+---------+ "<<endl;
+	cout<<"+---------+ "<<endl;
         cout<<"|         | "<<endl;
         cout<<"|  Foto   | "<< " dr.Sitti Musafirah Sp.KK     "<<endl;
         cout<<"|  Profil | "<< " Dokter kulit "<<endl;
